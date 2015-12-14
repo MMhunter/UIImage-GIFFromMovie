@@ -11,4 +11,4 @@ UIImage category used to create GIF from movie assets
 
 Using [UIImage+animatedGIF](https://github.com/mayoff/uiimage-from-animated-gif) for gif displaying.
 
-Relative Post [Here](/article/%post_id%)
+Relative Post [Here](http://mmhunter.com/article/15)
